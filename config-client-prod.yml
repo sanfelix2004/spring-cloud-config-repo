@@ -1,0 +1,9 @@
+custom:
+  property: "Hello from Config Server (Prod)!"
+database:
+  url: "jdbc:mysql://prod-db-server:3306/proddb"
+  username: "prod"
+  password: "prod123"
+logging:
+  level:
+    root: "ERROR"

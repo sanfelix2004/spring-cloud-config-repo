@@ -1,0 +1,9 @@
+custom:
+  property: "Hello from Config Server (Dev)!"
+database:
+  url: "jdbc:mysql://localhost:3306/devdb"
+  username: "dev"
+  password: "dev123"
+logging:
+  level:
+    root: "DEBUG"
